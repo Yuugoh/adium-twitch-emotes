@@ -88,6 +88,15 @@
 			</array>
 			<key>Name</key>
 			<string>feelsRainMan</string>
+    </dict>
+		<key>PogChamp.jpg</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>PogChamp</string>
+			</array>
+			<key>Name</key>
+			<string>PogChamp</string>
 		</dict>
 	</dict>
 </dict>
