@@ -107,6 +107,15 @@
 			<key>Name</key>
 			<string>WTF</string>
 		</dict>
+		<key>pepehands.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>pepeHands</string>
+			</array>
+			<key>Name</key>
+			<string>pepeHands</string>
+		</dict>
 	</dict>
 </dict>
 </plist>
