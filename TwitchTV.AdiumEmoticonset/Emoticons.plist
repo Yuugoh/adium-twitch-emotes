@@ -98,6 +98,15 @@
 			<key>Name</key>
 			<string>PogChamp</string>
 		</dict>
+		<key>wtf.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>WTF</string>
+			</array>
+			<key>Name</key>
+			<string>WTF</string>
+		</dict>
 	</dict>
 </dict>
 </plist>
